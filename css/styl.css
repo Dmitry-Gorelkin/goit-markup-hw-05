@@ -69,14 +69,12 @@ ul {
 /*********************HEADER*********************/
 
 .header {
-	/*border-bottom: 1px solid #ECECEC;*/
+	border-bottom: 1px solid #ECECEC;
 }
 
 .header .container {
 	display: flex;
 	align-items: center;
-
-	border-bottom: 1px solid #ECECEC;
 }
 
 .header-nav {
